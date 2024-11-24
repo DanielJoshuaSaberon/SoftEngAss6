@@ -75,8 +75,6 @@ public class BreakingNewsAgency implements NewsAgency {
                 }
             }
         });
-
-        randomNewsThread.setDaemon(true);
         randomNewsThread.start();
     }
 
