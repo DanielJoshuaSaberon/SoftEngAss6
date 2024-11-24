@@ -41,3 +41,9 @@ The system follows the **Observer design pattern**, where the `NewsAgency` is th
 - **Subscription management**: Allows users to subscribe and unsubscribe from breaking news updates.
 - **Random news notifications**: Subscribers receive notifications about breaking news at random intervals.
 - **Dynamic updates**: Subscribers can modify their preferences or unsubscribe without affecting others.
+
+
+## UML Diagram:
+![Diagram](https://github.com/user-attachments/assets/6b7adc40-d2d8-4b11-a9e9-7462ddd847fc)
+
+
